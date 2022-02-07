@@ -1,4 +1,12 @@
 body {
     background-color:#347aec ;
 
-}
+}     
+h1{
+    background-color: burlywood;
+    color: mediumslat;
+} 
+marquee {
+background-color: mediumslateblue;
+color: burlywood;
+ }
