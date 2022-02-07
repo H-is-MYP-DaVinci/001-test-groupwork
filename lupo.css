@@ -1,5 +1,5 @@
 body {
-    background-color: #bd1004;
+    background-color: #aaccf2;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   
   }
@@ -8,8 +8,9 @@ body {
     color: #656965;
   }
   
-  marquee{
-    font-size: 150px;
+  b{
+    color: #5d9ee8;
+    font-size: 30px;
     text-transform: uppercase;
   }
   
@@ -17,7 +18,4 @@ body {
   
     border-bottom: 2px solid #0c478a;
   }
-  © 2022 GitHub, Inc.
-  Terms
-  Privacy
   
