@@ -1,14 +1,20 @@
 body {
-    color: red ;
+    background-color: #aaccf2;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   
   }
   
-  h1{
+  h2{
     color: #656965;
-
   }
-
-h2{
-    background-color: #001bb5;
+  
+  marquee{
+    font-size: 150px;
+    text-transform: uppercase;
+  }
+  
+  ul {
+  
+    border-bottom: 2px solid #0c478a;
+  }
   
