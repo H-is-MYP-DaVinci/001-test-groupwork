@@ -5,3 +5,7 @@
 - REMEBER to add the css file into the html page usign the link tag
 - Style your page as you prefer!
 - Add a list of your qualities and style them!
+
+# 07/02 CSS classes
+- Add a series of paragraphs to your page
+- Style every paragraph with a different color
