@@ -3,5 +3,6 @@ h1{
 }
 
 p{
-    font-family: Georgia, 'Times New Roman', Times, serif;
+font-family: 'Courier New', Courier, monospace;
+border: 2px solid burlywood
 }
