@@ -1,15 +1,19 @@
 body {
-    background-color: #aaccf2;
+    background-color: #00ffc8;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   
   }
   
-  h2{
-    color: #656965;
+  h1{
+    color: #1e706b;
+  }
+
+  h2 {
+    color: #fa0505;
   }
   
-  b{
-    color: #5d9ee8;
+  p{
+    color: #fa5705;
     font-size: 30px;
     text-transform: uppercase;
   }
