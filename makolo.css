@@ -1,1 +1,14 @@
-p
+body {
+    color: red ;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  
+  }
+  
+  h1{
+    color: #656965;
+
+  }
+
+h2{
+    background-color: #001bb5;
+  
