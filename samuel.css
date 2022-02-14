@@ -38,4 +38,17 @@ ul {
     color: #ffffff;
   }
 
+  .sports {
 
+    border:none;
+  }
+
+  .friends {
+    border-top: 2px solid #fafcfc;
+    border-bottom: 2px solid #fafcfc;
+  }
+
+  .bi-playstation {
+    font-size: 70px;
+    color: #ffffff;
+  }
