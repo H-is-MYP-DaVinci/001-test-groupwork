@@ -5,16 +5,19 @@ body{
     background-color:#b6f2c6
 }
 h2{
-    color:#b386b5
+    color: darksalmon;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #9fe3b1;
 }
 h1{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 h2{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-color: #a2deb2
+    
 }
 marquee{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: #9ab5a1
 }
+

@@ -3,7 +3,7 @@ body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   
   }
-  
+ 
   h2{
     color: #656965;
   }
@@ -12,12 +12,15 @@ body {
     font-size: 150px;
     text-transform: uppercase;
   }
-  
+   bi-instagram{
+     font-size: 150mm;
+   }
   ul {
   
     border-bottom: 2px solid #0c478a;
   }
-  © 2022 GitHub, Inc.
-  Terms
-  Privacy
-  
+   
+
+  .bi-instagram{
+    font-size: 90px;
+  }
