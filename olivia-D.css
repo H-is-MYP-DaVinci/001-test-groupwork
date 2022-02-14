@@ -1,9 +1,12 @@
-body{
-   background-color: #146e87
-   
+body{ 
+  background-color: #033d99;
 }
 h2{
    color: white;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1{
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serifss;
 }
 p{
 color: #8cc0f5;
@@ -13,4 +16,14 @@ h1{
 }
 marquee{
    color: #bce3df;
+   font-size: 25px;
+}
+p{
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   font-size: 20px;
+}
+i{
+   color:white;
+   font-size: 72px;
+   
 }
