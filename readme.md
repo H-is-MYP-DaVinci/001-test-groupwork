@@ -9,3 +9,9 @@
 # 07/02 CSS classes
 - Add a series of paragraphs to your page
 - Style every paragraph with a different color
+
+
+
+# 14/02 CSS classes
+- add at least an icon
+- Customize its style
