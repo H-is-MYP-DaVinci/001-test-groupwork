@@ -1,3 +1,9 @@
+body{
+
+background-color: aqua;
+
+}
+
 h1 {
     color: 36fff5;
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -5,21 +11,20 @@ h1 {
 
 h2 {
 
-    font: margin: justify-content: ;;
-font font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
-
+    
+ font-size: height: font-weight: font-weight: opacity: ;;;;
 }
 
 p {
 
     font-family: Georgia, 'Times New Roman', Times, serif;
 
-    color: blue;
+    background-color: chartreuse;
+}
+
+marquee {
+
+size: 4cm;
+
+}
     
-
-
-}
-
-body{
-    color: crimson;
-}
